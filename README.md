@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 6911ab6de0b560c3ad0d76645708de8bc236c076
+> I can see the fire glowing deep inside your eyes
+> We're hiding in the shadows where the city never dies
+> Your body is a magnet pulling closer in the dark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
