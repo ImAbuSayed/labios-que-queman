@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-queman/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Labios que queman](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-queman/) |
+| **Get License** | [License this song: Labios que queman](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-queman/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 6911ab6de0b560c3ad0d76645708de8bc236c076
+> I can see the fire glowing deep inside your eyes
+> We're hiding in the shadows where the city never dies
+> Your body is a magnet pulling closer in the dark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cf1f4cdee25aab2ec3c080b2052693e0c4278b4ed18622947576cb069762181b` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
